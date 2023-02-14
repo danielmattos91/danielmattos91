@@ -5,7 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmattos91&show_icons=true&theme=transparent)
 
 ### Skills
-
 <div style="display: inline_block"><br/>
   <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
