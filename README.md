@@ -1,4 +1,4 @@
-### Ola eu sou o Daniel Mattos Desenvolvedor Fullstack👋
+### Ola eu sou o Daniel Mattos Desenvolvedor Web👋
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dmattosdev.000webhostapp.com/#about)
 
