@@ -2,7 +2,6 @@
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dmattosdev.000webhostapp.com/#about)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmattos91&show_icons=true&theme=transparent)
 
 ### Skills
 <div style="display: inline_block"><br/>
