@@ -2,7 +2,7 @@
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dmattosdev.000webhostapp.com/#about)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=danielmattos91)](https://github.com/danielmattos91)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmattos91)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
