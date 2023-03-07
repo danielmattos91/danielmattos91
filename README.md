@@ -2,6 +2,8 @@
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dmattosdev.000webhostapp.com/#about)
 
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?danielmattos91=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
 
 ### Skills
 <div style="display: inline_block"><br/>
